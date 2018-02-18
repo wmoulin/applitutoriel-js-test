@@ -1,0 +1,1 @@
+{"version":3,"sources":["sub-module-routes.ts"],"names":[],"mappings":";;;AAAA,6EAAyG;AACzG,6DAG8C;AAE9C;IAA4B,kCAAc;IACtC;QAAA,YACI,iBAAO,SAKV;QAJG,iBAAiB;QACjB,KAAI,CAAC,aAAa,CAAC,mBAAY,EAAE,yBAAyB,CAAC,CAAC;QAC5D,KAAI,CAAC,aAAa,CAAC,mBAAY,EAAE,yBAAyB,CAAC,CAAC;;IAEhE,CAAC;IACL,aAAC;AAAD,CARA,AAQC,CAR2B,gCAAc,GAQzC;AARY,wBAAM","file":"sub-module-routes.js","sourceRoot":""}
